@@ -1,4 +1,5 @@
 import numerapi
+import pandas as pd
 NAPI = numerapi.NumerAPI(verbosity="info")
 
 # Download new data
