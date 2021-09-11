@@ -9,7 +9,7 @@ from xgboost import XGBRegressor
 ##detele old
 dir = 'my_data_directory'
 shutil.rmtree(dir)
-napi = numerapi.NumerAPI("gnellany@gmail.com", "LWYHC4BHNFY5UBQLHOBAEOZ27OZT3FQY")
+napi = numerapi.NumerAPI("email", "code")
 NAPI = numerapi.NumerAPI(verbosity="info")
 
 # Download new data
